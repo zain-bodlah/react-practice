@@ -1,0 +1,1 @@
+tutorial for beginners {state vs props (58:28)} se start karna hai
